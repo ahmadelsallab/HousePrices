@@ -1,0 +1,9 @@
+
+https://www.kaggle.com/neviadomski/how-to-get-to-top-25-with-simple-model-sklearn
+META Model + Stacked regression: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+Adv stacked reg: https://www.kaggle.com/laurenstc/top-2-of-leaderboard-advanced-fe
+Well documened---> https://www.kaggle.com/agodwinp/stacking-house-prices-walkthrough-to-top-5
+https://www.kaggle.com/fiorenza2/journey-to-the-top-10
+NN: https://www.kaggle.com/bestaar/neural-network-approach-visualized-with-t-sne
+
+
